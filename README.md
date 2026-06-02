@@ -1,0 +1,2 @@
+# dialect-preservation-fieldwork-minutes
+方言保护田野调查总结会乡音纪要全栈系统——前端播放发音人录音并显示国际音标，后端处理语言学团队讨论，Whisper经方言微调转写，pyannote区分发音人与研究者，spaCy标注语法变异点，OpenAI生成方言特征报告与濒危等级摘要
